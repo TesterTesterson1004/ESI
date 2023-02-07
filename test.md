@@ -44,7 +44,7 @@ In this exercise, you will do the following:
 
 ### Task 1: Install Azure Health Bot in Azure Subscription
 
-1. [] Open a new tab in your internet browser incognito or in-private mode and navigate to Azure Portal at +++https://portal.azure.com+++. Log in to your Microsoft 365 tenant.
+1. [] Open a new tab in your internet browser incognito or in-private mode and navigate to Azure Portal at ``https://portal.azure.com``. Log in to your Microsoft 365 tenant.
 
 1. [] Search for **Azure Health Bot** in the top search bar and select it from the search results.
 
